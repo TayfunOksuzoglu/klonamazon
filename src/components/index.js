@@ -1,0 +1,13 @@
+export { default as HomePage } from '../pages/HomePage';
+export { default as Carousel } from './Carousel';
+export { default as HomePageCard } from './HomePageCard';
+export { default as CarouselCategory } from './CarouselCategory';
+export { default as CarouselProduct } from './CarouselProduct';
+export { default as NavBar } from './NavBar';
+export { default as Search } from './Search';
+export { default as CheckoutPage } from '../pages/CheckoutPage';
+export { default as ProductPage } from '../pages/ProductPage';
+export { default as SearchResultsPage } from '../pages/SearchResultsPage';
+export { default as ProductDetails } from './ProductDetails';
+export { default as ProductBadge } from './ProductBadge';
+export { default as ProductRatings } from './ProductRatings';
